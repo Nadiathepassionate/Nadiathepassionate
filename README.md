@@ -15,10 +15,10 @@ Courses: Statistic,Accounting,Business,Economics
 Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 Contact 📫
 Email: cancerians20@yahoo.com
-Linkedin: LinkedIn
-GitHub: GitHub:Nadiathepassionate
-Facebook Facebook:NadiaHammad
-Instagram Instagram:cancerians_leo
+Linkedin: NadiaHammad
+GitHub:Nadiathepassionate
+Facebook:NadiaHammad
+Instagram:cancerians_leo
 
 
 
