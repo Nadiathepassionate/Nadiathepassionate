@@ -1,24 +1,23 @@
 
-Hi there! Welcome !👋
-I'm Nadia Hammad, a software developer with over 4 months of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
+#Hi there! Welcome !👋
+#I'm Nadia Hammad, a software developer with over 4 months of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 
-Skills 🚀
-Languages: Python,JavaScript
-Front-end: HTML, CSS
-Back-end: Node.js
-Frameworks: Django, Bootstrap, TailwindCSS
-Databases: MySQL 
-Tools: Git, VS Code 
-Education 🎓
-Bachelor's degree in commerce
-Courses: Statistic,Accounting,Business,Economics
-Feel free to reach out if you're interested in collaborating on projects or if you have any question.
-Contact 📫
-Email: cancerians20@yahoo.com
-Linkedin: NadiaHammad
-GitHub:Nadiathepassionate
-Facebook:NadiaHammad
-Instagram:cancerians_leo
+#Skills 🚀Languages: Python,JavaScript
+#Front-end: HTML, CSS
+#Back-end: Node.js
+#Frameworks: Django, Bootstrap, TailwindCSS
+#Databases: MySQL 
+#Tools: Git, VS Code 
+#Education 🎓
+#Bachelor's degree in commerce
+#Courses: Statistic,Accounting,Business,Economics
+#Feel free to reach out if you're interested in collaborating on projects or if you have any question.
+#Contact 📫
+#Email: cancerians20@yahoo.com
+#Linkedin: NadiaHammad
+#GitHub:Nadiathepassionate
+#Facebook:NadiaHammad
+#Instagram:cancerians_leo
 
 
 
